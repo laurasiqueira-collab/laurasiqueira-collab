@@ -1,4 +1,4 @@
-💻 Laura Siqueira | Aspiring Software Developer
+💻 Laura Siqueira | Software Engineering student
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Aspiring+Software+Developer;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
